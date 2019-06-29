@@ -12,6 +12,19 @@ h4 {
     color: #fff;
 }
 
+li {
+    margin-bottom: 30px;
+}
+
+li>a>img {
+    height: 48px;
+    width: 48px;
+}
+
+.noBull {
+    list-style-type: none;
+}
+
 
 .footer {
     position: absolute;
