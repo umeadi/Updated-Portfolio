@@ -1,3 +1,26 @@
+body {
+    box-sizing: border-box;
+    background-color: grey;
+}
+
+.container {
+    
+}
+
+
 h4 {
     color: #fff;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #343A40;
+    color:#fff;
+    text-align: center;
+    padding-top: 25px;
 }
