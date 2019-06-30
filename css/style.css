@@ -25,6 +25,19 @@ li>a>img {
     list-style-type: none;
 }
 
+a>h5 {
+    text-decoration:none;
+}
+
+/* p {
+    color: #000;
+} */
+
+/* div>a>img {
+    height: 200px;
+    width: 200px;
+} */
+
 
 .footer {
     position: absolute;
