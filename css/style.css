@@ -2,6 +2,7 @@ body {
     box-sizing: border-box;
     background-color: #343A40;
     /* background: linear-gradient(to right bottom, #343A40, #474F58); */
+    font-family: 'Roboto', sans-serif;
 }
 
 .navbar {
