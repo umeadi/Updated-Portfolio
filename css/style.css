@@ -1,12 +1,20 @@
 body {
     box-sizing: border-box;
-    background-color: grey;
+    background-color: #343A40;
+    /* background: linear-gradient(to right bottom, #343A40, #474F58); */
 }
 
-.container {
+.navbar {
+    padding-bottom: .1rem;
+    /* border-top: 8px solid #0e141a; */
+    border-bottom: 4px solid #007BFF;
     
 }
 
+.containerBody {
+   background-color: #0D131A;
+   color: #fff;
+}
 
 h4 {
     color: #fff;
@@ -23,6 +31,8 @@ li>a>img {
 
 .noBull {
     list-style-type: none;
+    padding-top:16px;
+    position: fixed;
 }
 
 a>h5 {
@@ -33,11 +43,11 @@ a>h5 {
     color: #000;
 } */
 
-/* div>a>img {
-    height: 200px;
-    width: 200px;
-} */
 
+  .btn {
+    background-color: #007BFF;
+    color: #FFF;
+}
 
 .footer {
     position: absolute;
