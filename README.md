@@ -25,4 +25,4 @@ To provide a simple user interface to showcase some of the projects I've complet
 
 * **Marlon Umeadi** - *HTML, CSS, BootStrap, JavaScript, and jQuery* - (https://github.com/Umeadi)
 
-:shipit
+:shipit:
